@@ -19,7 +19,7 @@ I'm Areesh Nadeem!
 
 
 ## 📫 How to reach me:
-You can reach me using my github email or LinkedIn!
+You can reach me at areeshwork@gmail.com or on LinkedIn!
 <!--
 **anadeem717/anadeem717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
