@@ -9,7 +9,7 @@ I'm Areesh Nadeem!
 -  Web App Development with ASP.NET and React Frameworks
 - Embedded Systems with Arduino
 - SQL
-- Java
+- Java, JavaFX, JUnit
 
 ## ⬆ What I'm up to
 - 🔨 I'm currently developing a IoT water leak detector using Arduino. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm.
