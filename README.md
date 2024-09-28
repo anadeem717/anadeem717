@@ -3,7 +3,7 @@
 ## :book: About Me
 
 I'm Areesh Nadeem!
-- Currently: BS Computer Science Student at University of Illinois Chicago 
+- Currently: BS - Computer Science Student at University of Illinois Chicago (UIC) 
 
 ## 🖥️ Currently learning...
 -  Web App Development with ASP.NET and React Frameworks
