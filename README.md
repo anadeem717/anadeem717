@@ -12,6 +12,7 @@ I'm Areesh Nadeem!
 
 ## ⬆ What I'm up to
 - 🔨 I'm currently developing a IoT water leak detector using Arduino. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm.
+- 🔨 Working on creating a web app that shows the grade distribution of classes at UIC, using ASP.NET, React, SQL.
 
 ## 🎯 In the near future I plan too...
 - Design, develop, deploy a video game using UE5 & C++
