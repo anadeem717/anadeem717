@@ -7,7 +7,7 @@ I'm Areesh Nadeem!
 
 ## 🖥️ Currently learning...
 - Embedded Systems with Arduino
-- SQL
+- F#, Go
 - Java, JavaFX, JUnit
 
 ## ⬆ What I'm up to
