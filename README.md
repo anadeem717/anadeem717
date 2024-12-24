@@ -19,7 +19,7 @@ I'm Areesh Nadeem!
 - Get into GPU Programming (CUDA, C++)
 
 ## ✅ Goals Completed
-- Embedded Systems with Arduino
+- Development with Arduino: Built a Water leak detector and several other labs
 - Basics of F#, Go
 - Java, JavaFX, JUnit
 
