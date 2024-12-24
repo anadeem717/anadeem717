@@ -6,9 +6,8 @@ I'm Areesh Nadeem!
 - Currently: BS - Computer Science Student at University of Illinois Chicago (UIC) 
 
 ## 🖥️ Currently learning...
-- Embedded Systems with Arduino
-- F#, Go
-- Java, JavaFX, JUnit
+- Ray tracing fundamentals
+- Firmware engineering basics
 
 ## ⬆ What I'm up to
 - 🔨 I'm currently developing a IoT water leak detector using Arduino. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm.
@@ -16,12 +15,12 @@ I'm Areesh Nadeem!
 - 🔨 Working on building a Ray Tracer
 
 ## 🎯 In the near future I plan too...
-- Design, develop, deploy a video game using UE5 & C++
+- Get into firmware development
 - Get into GPU Programming (CUDA, C++)
 
-- ## &#x2705 Goals Completed...
+- ## ✅ Goals Completed
 - Embedded Systems with Arduino
-- F#, Go
+- Basics of F#, Go
 - Java, JavaFX, JUnit
 
 
