@@ -19,6 +19,11 @@ I'm Areesh Nadeem!
 - Design, develop, deploy a video game using UE5 & C++
 - Get into GPU Programming (CUDA, C++)
 
+- ## &#x2705 Goals Completed...
+- Embedded Systems with Arduino
+- F#, Go
+- Java, JavaFX, JUnit
+
 
 ## 📫 How to reach me:
 You can reach me at areeshwork@gmail.com or on LinkedIn!
