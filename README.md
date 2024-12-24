@@ -18,7 +18,7 @@ I'm Areesh Nadeem!
 - Get into firmware development
 - Get into GPU Programming (CUDA, C++)
 
-- ## ✅ Goals Completed
+## ✅ Goals Completed
 - Embedded Systems with Arduino
 - Basics of F#, Go
 - Java, JavaFX, JUnit
