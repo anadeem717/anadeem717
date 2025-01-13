@@ -13,11 +13,10 @@ I'm Areesh Nadeem!
 ## ⬆ What I'm up to
 - 🔨 I'm currently developing a IoT water leak detector using Arduino. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm.
     - Update: I've created the basic input and outputs for the system, and I will now add a WiFi module to I can send alerts to the user's phone. 
-- 🔨 Working on building a Ray Tracer
 
 ## 🎯 In the near future I plan too...
 - Get into firmware development
-- Get into GPU Programming (CUDA, C++)
+- Learn more about embedded software engineering
 
 ## ✅ Goals Completed
 - Development with Arduino: Built a Water leak detector and several other labs
