@@ -4,11 +4,12 @@
 
 I'm Areesh Nadeem!
 - Currently: BS - Computer Science Student at University of Illinois Chicago (UIC) 
-
+<!--
 ## 🖥️ Currently learning...
 - Firmware engineering basics
 - Microcontroller and Embedded Driver development on STM32
 - RTOS
+-->
 
 ## ⬆ What I'm up to
 - 🔨 I'm currently working on expanding on the IoT water leak detector. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm. 
