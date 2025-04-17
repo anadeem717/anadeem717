@@ -11,8 +11,7 @@ I'm Areesh Nadeem!
 - RTOS
 
 ## ⬆ What I'm up to
-- 🔨 I'm currently developing a IoT water leak detector using Arduino. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm.
-    - Update: I've created the basic input and outputs for the system, and I will now add a WiFi module to I can send alerts to the user's phone. 
+- 🔨 I'm currently working on expanding on the IoT water leak detector. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm. 
 
 ## 🎯 In the near future I plan too...
 - Get into firmware development
