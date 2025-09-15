@@ -12,14 +12,10 @@ I'm Areesh Nadeem!
 -->
 
 ## ⬆ What I'm up to
-- 🔨 I'm currently working on expanding on the IoT water leak detector. The system will be able to detect a leak and notify the user's phone as well as deploy an alarm. 
+- 🔨 Learning about Firmware and RTOS 
 
 ## 🎯 In the near future I plan too...
-- Learn more about systems development
-
-## ✅ Goals Completed
-- Development with Arduino: Built a Water leak detector and several other labs
-- Java, JavaFX, JUnit
+- Work on Embedded Software / Firmware
 
 
 ## 📫 How to reach me:
